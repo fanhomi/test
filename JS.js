@@ -1,0 +1,1 @@
+const data = "这是一个JS文件"
